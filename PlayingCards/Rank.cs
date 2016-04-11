@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace PlayingCards {
+	public enum Rank {
+		Ace = 1,
+		Deuce,
+		Three,
+		Four,
+		Five,
+		Six,
+		Seven,
+		Eight,
+		Nine,
+		Ten,
+		Jack,
+		Queen,
+		King,
+	}
+}
